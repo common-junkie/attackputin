@@ -6,8 +6,10 @@ Please contribute sites that should be included (create a merge request)
 
 ## Roadmap / TODOs
 - be more gentle to client's resources 
-- add sharing options (including native mobile dialog)
 - make the remaining counters live via api, plus the world map
 - add pause/resume button on Adolf's face
+
+## DONE
+- add sharing options (including native mobile dialog) 
 
 Any help much appreciated !
