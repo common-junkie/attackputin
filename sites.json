@@ -1,0 +1,606 @@
+[
+    {
+        "url": "https://vesti.ru/",
+        "name": "Vasti.ru"
+    },
+    {
+        "url": "https://rian.ru/",
+        "name": "Ria Novosti"
+    },
+    {
+        "url": "https://lenta.ru/",
+        "name": "Lenta"
+    },
+    {
+        "url": "https://aif.ru/",
+        "name": "Argumenty i Fakty"
+    },
+    {
+        "url": "https://rbc.ru/",
+        "name": "RosBusinessConsulting"
+    },
+    {
+        "url": "https://gazeta.ru/",
+        "name": "Gazeta.ru"
+    },
+    {
+        "url": "https://kp.ru/",
+        "name": "Komsomolskaya Pravda"
+    },
+    {
+        "url": "https://iz.ru/",
+        "name": "Izvestia"
+    },
+    {
+        "url": "https://vz.ru/",
+        "name": "Vzglyad"
+    },
+    {
+        "url": "https://tass.ru/",
+        "name": "IA Tass"
+    },
+    {
+        "url": "https://rg.ru/",
+        "name": "Rossiyskaya Gazeta"
+    },
+    {
+        "url": "https://lenta.ru/",
+        "name": "lenta.ru"
+    },
+    {
+        "url": "https://ria.ru/",
+        "name": "ria.ru"
+    },
+    {
+        "url": "https://www.rbc.ru/",
+        "name": "www.rbc.ru"
+    },
+    {
+        "url": "https://www.rt.com/",
+        "name": "rt.com"
+    },
+    {
+        "url": "http://kremlin.ru/",
+        "name": "kremlin.ru"
+    },
+    {
+        "url": "http://en.kremlin.ru/",
+        "name": "en.kremlin.ru"
+    },
+    {
+        "url": "https://smotrim.ru/",
+        "name": "smotrim.ru"
+    },
+    {
+        "url": "https://tass.ru/",
+        "name": "tass.ru"
+    },
+    {
+        "url": "https://tvzvezda.ru/",
+        "name": "tvzvezda.ru"
+    },
+    {
+        "url": "https://vsoloviev.ru/",
+        "name": "vsoloviev.ru"
+    },
+    {
+        "url": "https://www.1tv.ru/",
+        "name": "www.1tv.ru"
+    },
+    {
+        "url": "https://www.vesti.ru/",
+        "name": "www.vesti.ru"
+    },
+    {
+        "url": "https://online.sberbank.ru/",
+        "name": "online.sberbank.ru"
+    },
+    {
+        "url": "https://sberbank.ru/",
+        "name": "sberbank.ru"
+    },
+    {
+        "url": "https://zakupki.gov.ru/",
+        "name": "zakupki.gov.ru"
+    },
+    {
+        "url": "https://www.gosuslugi.ru/",
+        "name": "www.gosuslugi.ru"
+    },
+    {
+        "url": "https://er.ru/",
+        "name": "er.ru"
+    },
+    {
+        "url": "https://www.rzd.ru/",
+        "name": "www.rzd.ru"
+    },
+    {
+        "url": "https://rzdlog.ru/",
+        "name": "rzdlog.ru"
+    },
+    {
+        "url": "https://vgtrk.ru/",
+        "name": "vgtrk.ru"
+    },
+    {
+        "url": "https://www.interfax.ru/",
+        "name": "www.interfax.ru"
+    },
+    {
+        "url": "https://www.mos.ru/uslugi/",
+        "name": "www.mos.ru/"
+    },
+    {
+        "url": "http://government.ru/",
+        "name": "government.ru"
+    },
+    {
+        "url": "https://mil.ru/",
+        "name": "mil.ru"
+    },
+    {
+        "url": "https://www.nalog.gov.ru/",
+        "name": "www.nalog.gov.ru"
+    },
+    {
+        "url": "https://customs.gov.ru/",
+        "name": "customs.gov.ru"
+    },
+    {
+        "url": "https://pfr.gov.ru/",
+        "name": "pfr.gov.ru/"
+    },
+    {
+        "url": "https://rkn.gov.ru/",
+        "name": "rkn.gov.ru"
+    },
+    {
+        "url": "https://www.gazprombank.ru/",
+        "name": "www.gazprombank.ru"
+    },
+    {
+        "url": "https://lenta.ru/",
+        "name": "lenta.ru"
+    },
+    {
+        "url": "https://ria.ru/",
+        "name": "ria.ru"
+    },
+    {
+        "url": "https://www.rbc.ru/",
+        "name": "https://www.rbc.ru/"
+    },
+    {
+        "url": "https://www.rt.com/",
+        "name": "rt.com"
+    },
+    {
+        "url": "http://kremlin.ru/",
+        "name": "kremlin.ru"
+    },
+    {
+        "url": "http://en.kremlin.ru/",
+        "name": "en.kremlin.ru"
+    },
+    {
+        "url": "https://smotrim.ru/",
+        "name": "smotrim.ru"
+    },
+    {
+        "url": "https://tass.ru/",
+        "name": "tass.ru"
+    },
+    {
+        "url": "https://tvzvezda.ru/",
+        "name": "tvzvezda.ru"
+    },
+    {
+        "url": "https://vsoloviev.ru/",
+        "name": "vsoloviev.ru"
+    },
+    {
+        "url": "https://www.1tv.ru/",
+        "name": "www.1tv.ru"
+    },
+    {
+        "url": "https://www.vesti.ru/",
+        "name": "www.vesti.ru"
+    },
+    {
+        "url": "https://online.sberbank.ru/",
+        "name": "online.sberbank.ru"
+    },
+    {
+        "url": "https://sberbank.ru/",
+        "name": "sberbank.ru"
+    },
+    {
+        "url": "https://zakupki.gov.ru/",
+        "name": "zakupki.gov.ru"
+    },
+    {
+        "url": "https://www.gosuslugi.ru/",
+        "name": "www.gosuslugi.ru"
+    },
+    {
+        "url": "https://er.ru/",
+        "name": "er.ru"
+    },
+    {
+        "url": "https://www.rzd.ru/",
+        "name": "www.rzd.ru"
+    },
+    {
+        "url": "https://rzdlog.ru/",
+        "name": "rzdlog.ru"
+    },
+    {
+        "url": "https://vgtrk.ru/",
+        "name": "vgtrk.ru"
+    },
+    {
+        "url": "https://www.interfax.ru/",
+        "name": "www.interfax.ru"
+    },
+    {
+        "url": "https://lenta.ru/",
+        "name": "lenta.ru"
+    },
+    {
+        "url": "https://ria.ru/",
+        "name": "ria.ru"
+    },
+    {
+        "url": "https://www.rbc.ru/",
+        "name": "https://www.rbc.ru/"
+    },
+    {
+        "url": "https://www.rt.com/",
+        "name": "rt.com"
+    },
+    {
+        "url": "http://kremlin.ru/",
+        "name": "kremlin.ru"
+    },
+    {
+        "url": "http://en.kremlin.ru/",
+        "name": "en.kremlin.ru"
+    },
+    {
+        "url": "https://smotrim.ru/",
+        "name": "smotrim.ru"
+    },
+    {
+        "url": "https://tass.ru/",
+        "name": "tass.ru"
+    },
+    {
+        "url": "https://tvzvezda.ru/",
+        "name": "tvzvezda.ru"
+    },
+    {
+        "url": "https://vsoloviev.ru/",
+        "name": "vsoloviev.ru"
+    },
+    {
+        "url": "https://www.1tv.ru/",
+        "name": "www.1tv.ru"
+    },
+    {
+        "url": "https://www.vesti.ru/",
+        "name": "www.vesti.ru"
+    },
+    {
+        "url": "https://online.sberbank.ru/",
+        "name": "online.sberbank.ru"
+    },
+    {
+        "url": "https://sberbank.ru/",
+        "name": "sberbank.ru"
+    },
+    {
+        "url": "https://zakupki.gov.ru/",
+        "name": "zakupki.gov.ru"
+    },
+    {
+        "url": "https://www.gosuslugi.ru/",
+        "name": "www.gosuslugi.ru"
+    },
+    {
+        "url": "https://er.ru/",
+        "name": "er.ru"
+    },
+    {
+        "url": "https://www.rzd.ru/",
+        "name": "www.rzd.ru"
+    },
+    {
+        "url": "https://rzdlog.ru/",
+        "name": "rzdlog.ru"
+    },
+    {
+        "url": "https://vgtrk.ru/",
+        "name": "vgtrk.ru"
+    },
+    {
+        "url": "https://www.interfax.ru/",
+        "name": "www.interfax.ru"
+    },
+    {
+        "url": "https://www.mos.ru/uslugi/",
+        "name": "www.mos.ru/"
+    },
+    {
+        "url": "http://government.ru/",
+        "name": "government.ru"
+    },
+    {
+        "url": "https://mil.ru/",
+        "name": "mil.ru"
+    },
+    {
+        "url": "https://www.nalog.gov.ru/",
+        "name": "www.nalog.gov.ru"
+    },
+    {
+        "url": "https://customs.gov.ru/",
+        "name": "customs.gov.ru"
+    },
+    {
+        "url": "https://pfr.gov.ru/",
+        "name": "pfr.gov.ru/"
+    },
+    {
+        "url": "https://rkn.gov.ru/",
+        "name": "rkn.gov.ru"
+    },
+    {
+        "url": "https://www.gazprombank.ru/",
+        "name": "www.gazprombank.ru"
+    },
+    {
+        "url": "https://www.vtb.ru/",
+        "name": "www.vtb.ru"
+    },
+    {
+        "url": "https://www.gazprom.ru/",
+        "name": "www.gazprom.ru"
+    },
+    {
+        "url": "https://lukoil.ru",
+        "name": "lukoil.ru"
+    },
+    {
+        "url": "https://magnit.ru/",
+        "name": "magnit.ru"
+    },
+    {
+        "url": "https://www.nornickel.com/",
+        "name": "www.nornickel.com"
+    },
+    {
+        "url": "https://www.surgutneftegas.ru/",
+        "name": "www.surgutneftegas.ru"
+    },
+    {
+        "url": "https://www.tatneft.ru/",
+        "name": "www.tatneft.ru"
+    },
+    {
+        "url": "https://www.evraz.com/ru",
+        "name": "sibur.ru"
+    },
+    {
+        "url": "https://www.severstal.com/",
+        "name": "www.severstal.com"
+    },
+    {
+        "url": "https://www.metalloinvest.com/",
+        "name": "www.metalloinvest.com"
+    },
+    {
+        "url": "https://nangs.org/",
+        "name": "nangs.org"
+    },
+    {
+        "url": "https://rmk-group.ru/ru/",
+        "name": "rmk-group.ru/ru"
+    },
+    {
+        "url": "https://www.tmk-group.ru/",
+        "name": "www.tmk-group.ru"
+    },
+    {
+        "url": "https://ya.ru/",
+        "name": "ya.ru"
+    },
+    {
+        "url": "https://www.polymetalinternational.com/ru/",
+        "name": "www.polymetalinternational.com/ru"
+    },
+    {
+        "url": "https://www.uralkali.com/ru/",
+        "name": "www.uralkali.com/ru"
+    },
+    {
+        "url": "https://www.eurosib.ru/",
+        "name": "www.eurosib.ru"
+    },
+    {
+        "url": "https://ugmk.ua/",
+        "name": "ugmk.ua"
+    },
+    {
+        "url": "https://omk.ru/",
+        "name": "https://omk.ru/"
+    },
+    {
+        "url": "https://mil.ru/",
+        "name": "mil.ru"
+    },
+    {
+        "url": "https://www.nalog.gov.ru/",
+        "name": "www.nalog.gov.ru"
+    },
+    {
+        "url": "https://customs.gov.ru/",
+        "name": "customs.gov.ru"
+    },
+    {
+        "url": "https://pfr.gov.ru/",
+        "name": "pfr.gov.ru/"
+    },
+    {
+        "url": "https://rkn.gov.ru/",
+        "name": "rkn.gov.ru"
+    },
+    {
+        "url": "https://www.gazprombank.ru/",
+        "name": "www.gazprombank.ru"
+    },
+    {
+        "url": "https://www.vtb.ru/",
+        "name": "www.vtb.ru"
+    },
+    {
+        "url": "https://www.gazprom.ru/",
+        "name": "www.gazprom.ru"
+    },
+    {
+        "url": "https://lukoil.ru",
+        "name": "lukoil.ru"
+    },
+    {
+        "url": "https://magnit.ru/",
+        "name": "magnit.ru"
+    },
+    {
+        "url": "https://www.nornickel.com/",
+        "name": "www.nornickel.com"
+    },
+    {
+        "url": "https://www.surgutneftegas.ru/",
+        "name": "www.surgutneftegas.ru"
+    },
+    {
+        "url": "https://www.tatneft.ru/",
+        "name": "www.tatneft.ru"
+    },
+    {
+        "url": "https://www.evraz.com/ru",
+        "name": "sibur.ru"
+    },
+    {
+        "url": "https://www.severstal.com/",
+        "name": "www.severstal.com"
+    },
+    {
+        "url": "https://www.metalloinvest.com/",
+        "name": "www.metalloinvest.com"
+    },
+    {
+        "url": "https://nangs.org/",
+        "name": "nangs.org"
+    },
+    {
+        "url": "https://rmk-group.ru/ru/",
+        "name": "rmk-group.ru/ru"
+    },
+    {
+        "url": "https://www.tmk-group.ru/",
+        "name": "www.tmk-group.ru"
+    },
+    {
+        "url": "https://ya.ru/",
+        "name": "ya.ru"
+    },
+    {
+        "url": "https://www.polymetalinternational.com/ru/",
+        "name": "www.polymetalinternational.com/ru"
+    },
+    {
+        "url": "https://www.uralkali.com/ru/",
+        "name": "www.uralkali.com/ru"
+    },
+    {
+        "url": "https://www.eurosib.ru/",
+        "name": "www.eurosib.ru"
+    },
+    {
+        "url": "https://ugmk.ua/",
+        "name": "ugmk.ua"
+    },
+    {
+        "url": "https://omk.ru/",
+        "name": "omk.ru"
+    },
+    {
+        "url": "https://lukoil.ru",
+        "name": "lukoil.ru"
+    },
+    {
+        "url": "https://magnit.ru/",
+        "name": "magnit.ru"
+    },
+    {
+        "url": "https://www.nornickel.com/",
+        "name": "www.nornickel.com"
+    },
+    {
+        "url": "https://www.surgutneftegas.ru/",
+        "name": "www.surgutneftegas.ru"
+    },
+    {
+        "url": "https://www.tatneft.ru/",
+        "name": "www.tatneft.ru"
+    },
+    {
+        "url": "https://www.evraz.com/ru",
+        "name": "sibur.ru"
+    },
+    {
+        "url": "https://www.severstal.com/",
+        "name": "www.severstal.com"
+    },
+    {
+        "url": "https://www.metalloinvest.com/",
+        "name": "www.metalloinvest.com"
+    },
+    {
+        "url": "https://nangs.org/",
+        "name": "nangs.org"
+    },
+    {
+        "url": "https://rmk-group.ru/ru/",
+        "name": "rmk-group.ru/ru"
+    },
+    {
+        "url": "https://www.tmk-group.ru/",
+        "name": "www.tmk-group.ru"
+    },
+    {
+        "url": "https://ya.ru/",
+        "name": "ya.ru"
+    },
+    {
+        "url": "https://www.polymetalinternational.com/ru/",
+        "name": "www.polymetalinternational.com/ru"
+    },
+    {
+        "url": "https://www.uralkali.com/ru/",
+        "name": "https://www.uralkali.com/ru/"
+    },
+    {
+        "url": "https://www.eurosib.ru/",
+        "name": "www.eurosib.ru"
+    },
+    {
+        "url": "https://ugmk.ua/",
+        "name": "ugmk.ua"
+    },
+    {
+        "url": "https://omk.ru/",
+        "name": "omk.ru"
+    }
+]
