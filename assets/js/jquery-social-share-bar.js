@@ -14,17 +14,7 @@
 
     var helpers = {
       channels: {
-        facebook: { url: 'https://www.facebook.com/share.php?u=|u|' },
-        twitter: { url: 'https://twitter.com/share?url=|u|&text=|140|' },
-        linkedin: { url: 'https://www.linkedin.com/shareArticle?mini=true&url=|u|&title=|t|&summary=|d|' },
-        tumblr: { url: 'https://www.tumblr.com/share?v=3&u=|u|' },
-        digg: { url: 'https://digg.com/submit?url=|u|&title=|t|' },
-        googleplus: { url: 'https://plusone.google.com/_/+1/confirm?hl=en&url=|u|' },
-        reddit: { url: 'https://reddit.com/submit?url=|u|' },
         share: { url: '#[u]' },
-        pinterest: { url: 'https://pinterest.com/pin/create/button/?url=|u|&media=&description=|d|' },
-        stumbleupon: { url: 'https://www.stumbleupon.com/submit?url=|u|&title=|t|' },
-        email: { url: 'mailto:?subject=|t|&body=You might want to check this out: |u|' }
       }
     };
 
@@ -37,7 +27,7 @@
           pageTitle = settings.title || document.title || '',
           pageUrl = settings.pageUrl || window.location.href,
           pageDesc = settings.pageDesc || $('head > meta[name="description"]').attr("content") || '',
-          position = settings.position || 'left',
+          position = 'center',
           theme = settings.theme || 'circle',
           animate = settings.animate === false ? false : true,
           u = encodeURIComponent(pageUrl),
@@ -89,15 +79,15 @@
               if (navigator.share) {
                 // Web Share API is supported
                 navigator.share({
-                  title: 'Péťa Reformátor',
-                  url: 'https://www.commonjunkie.net'
+                  title: 'Attack Putin\'s Propaganda ',
+                  url: 'https://www.attackputin.com'
                 }).then(() => {
                   console.log('Thanks for sharing!');
                 })
 
               } else {
                 // Fallback
-                alert("Tohle jde bohužel jen na mobilu.")
+                alert("Mobile only.")
               }
 
             } else {
@@ -125,7 +115,7 @@
   $.fn.share.defaults = {
     popupWidth: 640,
     popupHeight: 528,
-    channels: ['facebook', 'twitter', 'linkedin', 'reddit', 'pinterest', 'email', 'share'],
+    channels: ['share'],
     itemTriggerClass: 'js-share',
     containerTemplate: function (props) {
       return '<ul class="sharing-providers"></ul>';
@@ -160,3 +150,4 @@
   $.fn.share.settings = {};
 
 })(jQuery, window);
+

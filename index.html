@@ -26,7 +26,6 @@
 
 <!-- Navbar (sit on top) -->
 <div class="w3-top">
-  <div id="share-bar"></div>
   <div class="w3-bar" id="myNavbar">
     <a class="w3-bar-item w3-button w3-hover-black w3-hide-medium w3-hide-large w3-right" href="javascript:void(0);" onclick="toggleFunction()" title="Toggle Navigation Menu">
       <i class="fa fa-bars"></i>
@@ -52,10 +51,13 @@
 
 <!-- Container (About Section) -->
 <div class="w3-content w3-container w3-padding-64" id="about">
-  <div id="share-bar"></div>
   <h2 class="w3-center">STOP RUSSIAN PROPAGANDA</h2>
   <p class="w3-center"><h3>You are not as powerless as you may have thought. You are currently running a cyberattack against many pro-Putin Russian websites. In contrast with the Ukrainian soldiers, we are privileged to fight from the comfort and safety of our homes. Or even from a pub.</h3></p>
   <p>We may not be able to stop the war in Ukraine. But what you can do is to help bring Russion IT infrastructure to its knees. Just leave this page opened, ideally overnight. Behind the scenes, it turns your web browser into a powerfull weapon. Keep it running as long as you can - it's been designed so you can carry on with your other tasks as normal. SO PLEASE RETURN OFTEN AND SHARE WIDELY.</p>
+  
+  <p class="w3-center">
+  <span class="w3-center" id="share-bar"></span>
+  </p>
   <p>PS: This is just a minimum viable product of one boring powerless Sunday night. Fellow coders, take it as an inspiration for much more powerfull cyberattacks. Surely the "civilized world" - ready to waste an average country's worth of energy mining fucking useless bitcoin Ponzi - is collectively capable of much greater moves in the cyberwar on Russia. Help the <a href="https://www.theguardian.com/world/2022/feb/27/anonymous-the-hacker-collective-that-has-declared-cyberwar-on-russia">Anonymous</a>.</p>
   <div class="w3-row w3-center">
     <h1>THANK YOU !</h1>
@@ -87,5 +89,12 @@
 <script type="text/javascript" src="/assets/js/jquery-social-share-bar.js"></script>
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 <!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-621d29a760cb1d35"></script>
+<script>
+  if (navigator.share) {
+    $('#share-bar').share();
+  } else {
+    $('#share-bar').hide();
+  }
+</script>
 </body>
 </html>
