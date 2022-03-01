@@ -16,11 +16,13 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="/assets/css/style.css">
 <link href="/assets/css/jquery-social-share-bar.css" rel="stylesheet"/>
-
 <script
   src="https://code.jquery.com/jquery-3.6.0.min.js"
   integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
   crossorigin="anonymous"></script>
+<script src="https://andreruffert.github.io/rangeslider.js/assets/rangeslider.js/dist/rangeslider.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.2/underscore-min.js"></script>
+
 </head>
 <body>
 
@@ -46,8 +48,21 @@
 <div class="bgimg-1 w3-display-container w3-opacity-min" id="home">
   <div class="w3-display-middle" style="white-space:nowrap;">
     <span id='attack' class="w3-center w3-padding-large w3-black w3-xlarge w3-wide w3-animate-opacity">Preparing the attack ...</span>
+    <div class="main">
+      <label for="panel_size">Attack strenght</label>
+      <input
+          type="range"
+          name="participants"
+          min="1"
+          max="100"
+          value="50"
+      >
+      <span class="rangeslider__tooltip" id ="range-tooltip"></span>
+    </div>
   </div>
 </div>
+
+
 
 <!-- Container (About Section) -->
 <div class="w3-content w3-container w3-padding-64" id="about">
@@ -92,6 +107,7 @@
 <script>
   if (navigator.share) {
     $('#share-bar').share();
+    $('input[type="range"]').val(33);
   } else {
     $('#share-bar').hide();
   }
