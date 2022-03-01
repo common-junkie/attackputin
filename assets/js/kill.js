@@ -19,6 +19,10 @@ $(document).ready(function () {
             return true;
         }
     });
+
+    $(window).bind('beforeunload', function(){
+        return 'Why not leave it running all night long?';
+    });
 });
 
 async function launchAttack(list) {
@@ -139,15 +143,6 @@ function myFunction() {
     }
 }
 
-// Used to toggle the menu on small screens when clicking on the menu button
-function toggleFunction() {
-    var x = document.getElementById("navDemo");
-    if (x.className.indexOf("w3-show") == -1) {
-        x.className += " w3-show";
-    } else {
-        x.className = x.className.replace(" w3-show", "");
-    }
-}
 
 // Google translate 
 
@@ -216,3 +211,4 @@ function updateState(el, val) {
     // Update tooltip
     $tooltip.html(currentState.tooltip);
 }
+
