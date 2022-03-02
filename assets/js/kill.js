@@ -147,7 +147,8 @@ function myFunction() {
 // Google translate 
 
 function googleTranslateElementInit() {
-    new google.translate.TranslateElement({ pageLanguage: 'en' }, 'google_translate_element');
+    new google.translate.TranslateElement({ pageLanguage: 'auto', autoDisplay: false,
+    layout: google.translate.TranslateElement.InlineLayout.SIMPLE }, 'google_translate_element');
 }
 
 
