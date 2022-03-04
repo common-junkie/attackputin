@@ -21,6 +21,9 @@
     var methods = {
 
       init: function (options) {
+        if (noshare) {
+          return;
+        }
         this.share.settings = $.extend({}, this.share.defaults, options);
 
         var settings = this.share.settings,
