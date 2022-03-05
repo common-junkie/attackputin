@@ -42,7 +42,7 @@ function sleep(ms) {
 }
 
 function attackOne(url) {
-    //flood(url);
+    flood(url);
 }
 
 async function fetchWithTimeout(resource, options) {
