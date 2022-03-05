@@ -602,5 +602,9 @@
     {
         "url": "https://omk.ru/",
         "name": "omk.ru"
+    },
+    {
+        "url": "https://yandex.ru/",
+        "name": "Yandex.ru"
     }
 ]
