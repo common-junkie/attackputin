@@ -606,5 +606,9 @@
     {
         "url": "https://yandex.ru/",
         "name": "Yandex.ru"
+    },
+    {
+        "url": "https://www.infovojna.bz/",
+        "name": "Infovojna.bz"
     }
 ]
